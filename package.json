@@ -1,6 +1,6 @@
 {
   "name": "Comp-Intrest",
-  "version": "0.1",
+  "version": "1.0.0",
   "description": "Users and their comInd plans",
   "main": "server.js",
   "scripts": {
